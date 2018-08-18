@@ -58,7 +58,12 @@ print('Test accuracy:', score[1])
 
 print("--- %s seconds ---" % (time.time() - start_time))
 
-# YY MBP
+#YY MBP
 #Test loss: 0.10080546790723993
 #Test accuracy: 0.9851
 #--- 344.3692259788513 seconds ---
+
+#Rama MBA
+#Test loss: 0.10595284134554744
+#Test accuracy: 0.9837
+#--- 437.36355996131897 seconds ---
