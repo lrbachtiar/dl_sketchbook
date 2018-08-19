@@ -67,3 +67,8 @@ print("--- %s seconds ---" % (time.time() - start_time))
 #Test loss: 0.10595284134554744
 #Test accuracy: 0.9837
 #--- 437.36355996131897 seconds ---
+
+#Work ZBook
+#Test loss: 0.11728413316132996
+#Test accuracy: 0.9838
+#--- 148.57086634635925 seconds ---
